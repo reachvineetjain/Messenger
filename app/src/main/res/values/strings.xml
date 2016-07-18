@@ -4,4 +4,5 @@
     <string name="send">Send</string>
     <string name="title_activity_receive_message">Receive Message Activity</string>
     <string name="hello_world"></string>
+    <string name="choser">Send Message...</string>
 </resources>
